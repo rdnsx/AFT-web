@@ -1,6 +1,6 @@
 # AFT-web
 
-This is a Python code that uses the Streamlit library to create a simple web application for tracking aquarium fertilizer.
+This is a Python code that uses the Streamlit library to create a simple web application for the aquarium fertilizer tracker.
 
 The st.set_page_config() function sets the configuration of the web page, including the title, icon, and layout.
 
