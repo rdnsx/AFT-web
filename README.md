@@ -1,7 +1,7 @@
 # AFT-web
 
 This is a Python code that uses the Streamlit library to create a simple web application for the aquarium fertilizer tracker.
-
+![alt text](http://url/to/img.png)
 The st.set_page_config() function sets the configuration of the web page, including the title, icon, and layout.
 
 The @st.cache_data decorator is used to cache the result of the load_data() function, which reads a CSV file containing fertilizer data for an aquarium. Caching the data ensures that the file is only read once, even if the web page is refreshed multiple times.
